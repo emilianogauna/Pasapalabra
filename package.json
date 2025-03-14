@@ -1,0 +1,31 @@
+"main": "index.html", // Entrada del programa de empaque
+	 "nombre": "nube", // La cadena debe ser letras minúsculas o números, puede contener "." o "_" o "-", no se permiten espacios, debe ser única
+	 "descripción": "aplicación de demostración de node-webkit", // descripción
+	 "versión": "1.0.0", // versión
+	 "keywords": ["demo", "node-webkit"], // Palabras clave
+	 "ventana": {// Configuración de la ventana
+	 "title": "node-webkit", // El título del formulario
+	 "icon": "link.png", // icono ico del formulario
+	 "toolbar": false, // ¿Quieres una barra de herramientas?
+	 "marco": verdadero, // valor bool. Si se establece en falso, el programa se mostrará sin bordes, es decir, no hay un botón de cerrar, minimizar o pantalla completa predeterminado del sistema
+	 "ancho": 1000, // El tamaño de la ventana: ancho
+	 "altura": 800, // El tamaño de la ventana: largo
+	 "posición": "ratón", // cadena. La posición cuando se abre la ventana se puede establecer en "nulo", "centro" o "mouse".
+	 "min_width": 400, // ancho mínimo
+	 "min_height": 200, // altura mínima
+	 "max_width": 9999, // Ancho máximo
+	 "max_height": 9999, // Altura máxima
+	 "as_desktop": false, // si se mostrará como una ventana de fondo de escritorio
+	 "resizable": true, // si se permite ajustar el tamaño de la ventana
+	 "always-on-top": verdadero, // si la ventana está en la parte superior
+	 "fullscreen": false, // si se muestra en pantalla completa 
+	 "show_in_taskbar": true, // si se muestra el icono de la barra de tareas 
+	 "show": true, // Si se establece en false, la ventana no será visible al inicio
+	 "kiosk": false // Si se debe utilizar el modo kiosco. Si usa el modo kiosco, la aplicación se mostrará en pantalla completa y evitará que el usuario salga de la aplicación.
+},
+	"webkit": {
+		 "plugin": verdadero, // valor bool, si se carga un complemento, como flash, el valor predeterminado es falso.
+		 "java": falso, // valor bool si se cargan subprogramas java
+		 "page-cache": false // Si se habilita el almacenamiento en caché de la página
+	}
+}
