@@ -456,7 +456,7 @@ i {
 }
 
 /* -----------------------------------------------------------------------------
- *								$LAYOUT
+ *                $LAYOUT
  * ----------------------------------------------------------------------------- */
 body {
   position: relative;
@@ -752,7 +752,7 @@ body {
 
 .title-container .logo-central {
   position: absolute;
-  top: 25%;
+  top: 17%;
   left: 50%;
   transform: translate(-50%, -25%);
 }
@@ -939,4 +939,49 @@ footer img {
 }
 #js--user-answer::placeholder {
     font-size: 16px; /* Reducir el tamaño del texto */
+}
+
+/* Estilos específicos para móviles */
+@media (max-width: 768px), (max-height: 500px) {
+  .circle {
+    width: 16em;
+    height: 16em;
+  }
+  .circle > * {
+    width: 1.5em;
+    height: 1.5em;
+    margin: -0.75em;
+  }
+  .circle .item {
+    font-size: 0.9rem;
+    width: 1.5em;
+    height: 1.5em;
+    line-height: 1.5em;
+  }
+  
+  .scoreboard .timer, .scoreboard .score {
+    width: 2em;
+    height: 2em;
+    font-size: 0.9rem;
+    line-height: 2em;
+  }
+
+  /* Reducir el tamaño del logo central en móviles */
+  .title-container .logo-central {
+    width: 150px;
+    height: 150px;
+  }
+
+  /* Reducir el tamaño del texto en móviles */
+  .game-intro, .game-description {
+    font-size: 1rem;
+  }
+
+  /* Reducir el tamaño del texto de las normas en móviles */
+  #js--ng-controls h4 {
+    font-size: 1.2rem;
+  }
+  #js--ng-controls p {
+    font-size: 1rem;
+  }
 }
