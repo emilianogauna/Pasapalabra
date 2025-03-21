@@ -26,7 +26,7 @@ var words = [
     new Word(21, "V", "Empieza con V:", "Archivo con imágenes en movimiento.", "Video"),
     new Word(22, "X", "Empieza con X:", "Consola de videojuegos de Microsoft.", "Xbox"),
     new Word(23, "Y", "Empieza con Y:", "Plataforma para ver y compartir videos.", "YouTube"),
-    new Word(24, "Z", "Empieza con Z:", "Archivo comprimido.", "Zip"),
+    new Word(24, "Z", "Empieza con Z:", "Tipo de archivo comprimido para que ocupe menos espacio.", "Zip"),
 ];
 
 
