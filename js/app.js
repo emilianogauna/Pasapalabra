@@ -5,7 +5,7 @@ var words = [
     new Word(0, "A", "Empieza con A:", "Programa que se usa en celulares o computadoras.", "Aplicacion"),
     new Word(1, "B", "Empieza con B:", "Tecnología para conectar dispositivos sin cables.", "Bluetooth"),
     new Word(2, "C", "Empieza con C:", "Máquina que procesa información y realiza tareas.", "Computadora"),
-    new Word(3, "D", "Empieza con D:", "Acción de bajar archivos desde internet.", "Descarga"),
+    new Word(3, "D", "Empieza con D:", "Acción de bajar archivos desde internet.", "Descargar"),
     new Word(4, "E", "Contiene E:", "Red que conecta computadoras en todo el mundo.", "Internet"),
     new Word(5, "F", "Empieza con F:", "Imagen tomada con una cámara.", "Foto"),
     new Word(6, "G", "Empieza con G:", "Buscador de información en internet.", "Google"),
