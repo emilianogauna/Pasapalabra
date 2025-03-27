@@ -1,35 +1,33 @@
 // Variables
 // -----------------------------------------------------------------------------
+var words = [];
+var count = 0;
+var remainingWords = 25;
 
-var words = [ 
-    new Word(0, "A", "Empieza con A:", "Programa que se usa en celulares o computadoras.", "Aplicacion"),
-    new Word(1, "B", "Empieza con B:", "Tecnología para conectar dispositivos sin cables.", "Bluetooth"),
-    new Word(2, "C", "Empieza con C:", "Máquina que procesa información y realiza tareas.", "Computadora"),
-    new Word(3, "D", "Empieza con D:", "Acción de bajar archivos desde internet.", "Descargar"),
-    new Word(4, "E", "Contiene E:", "Red que conecta computadoras en todo el mundo.", "Internet"),
-    new Word(5, "F", "Empieza con F:", "Imagen tomada con una cámara.", "Foto"),
-    new Word(6, "G", "Empieza con G:", "Buscador de información en internet.", "Google"),
-    new Word(7, "H", "Empieza con H:", "Componentes físicos de una computadora.", "Hardware"),
-    new Word(8, "I", "Empieza con I:", "Dispositivo que convierte archivos digitales en papel.", "Impresora"),
-    new Word(9, "J", "Empieza con J:", "Control usado para jugar videojuegos.", "Joystick"),
-    new Word(10, "L", "Empieza con L:", "Computadora portátil.", "Laptop"),
-    new Word(11, "M", "Empieza con M:", "Pantalla de una computadora.", "Monitor"),
-    new Word(12, "N", "Empieza con N:", "Espacio de almacenamiento en internet.", "Nube"),
-    new Word(13, "Ñ", "Contiene Ñ:", "Acción de compartir conocimientos en la escuela.", "Enseñar"),
-    new Word(14, "O", "Empieza con O:", "Sinónimo de computadora.", "Ordenador"),
-    new Word(15, "P", "Empieza con P:", "Superficie donde se muestra información visual.", "Pantalla"),
-    new Word(16, "Q", "Empieza con Q:", "Código de barras que almacena información.", "QR"),
-    new Word(17, "R", "Empieza con R:", "Dispositivo que envía internet a otros equipos.", "Router"),
-    new Word(18, "S", "Empieza con S:", "Conjunto de programas que hacen funcionar una computadora.", "Software"),
-    new Word(19, "T", "Empieza con T:", "Dispositivo táctil portátil.", "Tablet"),
-    new Word(20, "U", "Empieza con U:", "Conector universal de datos y energía.", "USB"),
-    new Word(21, "V", "Empieza con V:", "Archivo con imágenes en movimiento.", "Video"),
-    new Word(22, "X", "Empieza con X:", "Consola de videojuegos de Microsoft.", "Xbox"),
-    new Word(23, "Y", "Empieza con Y:", "Plataforma para ver y compartir videos.", "YouTube"),
-    new Word(24, "Z", "Empieza con Z:", "Tipo de archivo comprimido para que ocupe menos espacio.", "Zip"),
-];
-
-
+// Cargar palabras desde JSON
+fetch("words.json")
+  .then(response => response.json())
+  .then(data => {
+    // Elegir una palabra al azar por letra
+    const letrasVistas = new Set();
+    data.forEach((item) => {
+      const letra = item.letra.toUpperCase();
+      if (!letrasVistas.has(letra)) {
+        letrasVistas.add(letra);
+        words.push(new Word(
+          words.length,
+          letra,
+          item.pista,
+          item.definicion,
+          item.respuesta
+        ));
+      }
+    });
+    document.getElementById("js--new-game").classList.remove("disabled");
+  })
+  .catch(error => {
+    console.error("Error al cargar palabras:", error);
+  });
 // Functions
 // ----------------------------------------- Disciplina filosófica que estudia las ideas, sus caracteres y especialmente su origen.", "Ideologia"------------------------------------
 
