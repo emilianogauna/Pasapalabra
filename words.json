@@ -1,0 +1,974 @@
+[
+  {
+    "letra": "A",
+    "pista": "Empieza con A",
+    "definicion": "Programa que se usa en celulares o computadoras",
+    "respuesta": "Aplicacion"
+  },
+  {
+    "letra": "A",
+    "pista": "Empieza con A",
+    "definicion": "Sistema operativo para celulares",
+    "respuesta": "Android"
+  },
+  {
+    "letra": "A",
+    "pista": "Empieza con A",
+    "definicion": "Accion de mejorar un programa",
+    "respuesta": "Actualizar"
+  },
+  {
+    "letra": "A",
+    "pista": "Empieza con A",
+    "definicion": "Dispositivo de sonido personal",
+    "respuesta": "Auriculares"
+  },
+  {
+    "letra": "A",
+    "pista": "Empieza con A",
+    "definicion": "Lugar donde se guarda informacion",
+    "respuesta": "Almacenamiento"
+  },
+  {
+    "letra": "A",
+    "pista": "Empieza con A",
+    "definicion": "Imagen que representa a un usuario",
+    "respuesta": "Avatar"
+  },
+  {
+    "letra": "B",
+    "pista": "Empieza con B",
+    "definicion": "Tecnologia de conexion sin cables",
+    "respuesta": "Bluetooth"
+  },
+  {
+    "letra": "B",
+    "pista": "Empieza con B",
+    "definicion": "Copia de seguridad",
+    "respuesta": "Backup"
+  },
+  {
+    "letra": "B",
+    "pista": "Empieza con B",
+    "definicion": "Sitio donde se escriben ideas",
+    "respuesta": "Blog"
+  },
+  {
+    "letra": "B",
+    "pista": "Empieza con B",
+    "definicion": "Unidad minima de informacion",
+    "respuesta": "Bit"
+  },
+  {
+    "letra": "B",
+    "pista": "Empieza con B",
+    "definicion": "Lugar donde se guardan datos",
+    "respuesta": "Base"
+  },
+  {
+    "letra": "B",
+    "pista": "Empieza con B",
+    "definicion": "Tipo de letra digital",
+    "respuesta": "Bold"
+  },
+  {
+    "letra": "C",
+    "pista": "Empieza con C",
+    "definicion": "Maquina para procesar datos",
+    "respuesta": "Computadora"
+  },
+  {
+    "letra": "C",
+    "pista": "Empieza con C",
+    "definicion": "Guardado en internet",
+    "respuesta": "Cloud"
+  },
+  {
+    "letra": "C",
+    "pista": "Empieza con C",
+    "definicion": "Lenguaje para crear paginas web",
+    "respuesta": "CSS"
+  },
+  {
+    "letra": "C",
+    "pista": "Empieza con C",
+    "definicion": "Lugar donde se guarda informacion",
+    "respuesta": "Carpeta"
+  },
+  {
+    "letra": "C",
+    "pista": "Empieza con C",
+    "definicion": "Elemento que muestra imagenes",
+    "respuesta": "Camara"
+  },
+  {
+    "letra": "C",
+    "pista": "Empieza con C",
+    "definicion": "Codigo que forma un programa",
+    "respuesta": "Codigo"
+  },
+  {
+    "letra": "D",
+    "pista": "Empieza con D",
+    "definicion": "Palabra de tecnologia con la letra D (1)",
+    "respuesta": "Dpalabra1"
+  },
+  {
+    "letra": "D",
+    "pista": "Empieza con D",
+    "definicion": "Palabra de tecnologia con la letra D (2)",
+    "respuesta": "Dpalabra2"
+  },
+  {
+    "letra": "D",
+    "pista": "Empieza con D",
+    "definicion": "Palabra de tecnologia con la letra D (3)",
+    "respuesta": "Dpalabra3"
+  },
+  {
+    "letra": "D",
+    "pista": "Empieza con D",
+    "definicion": "Palabra de tecnologia con la letra D (4)",
+    "respuesta": "Dpalabra4"
+  },
+  {
+    "letra": "D",
+    "pista": "Empieza con D",
+    "definicion": "Palabra de tecnologia con la letra D (5)",
+    "respuesta": "Dpalabra5"
+  },
+  {
+    "letra": "D",
+    "pista": "Empieza con D",
+    "definicion": "Palabra de tecnologia con la letra D (6)",
+    "respuesta": "Dpalabra6"
+  },
+  {
+    "letra": "E",
+    "pista": "Empieza con E",
+    "definicion": "Palabra de tecnologia con la letra E (1)",
+    "respuesta": "Epalabra1"
+  },
+  {
+    "letra": "E",
+    "pista": "Empieza con E",
+    "definicion": "Palabra de tecnologia con la letra E (2)",
+    "respuesta": "Epalabra2"
+  },
+  {
+    "letra": "E",
+    "pista": "Empieza con E",
+    "definicion": "Palabra de tecnologia con la letra E (3)",
+    "respuesta": "Epalabra3"
+  },
+  {
+    "letra": "E",
+    "pista": "Empieza con E",
+    "definicion": "Palabra de tecnologia con la letra E (4)",
+    "respuesta": "Epalabra4"
+  },
+  {
+    "letra": "E",
+    "pista": "Empieza con E",
+    "definicion": "Palabra de tecnologia con la letra E (5)",
+    "respuesta": "Epalabra5"
+  },
+  {
+    "letra": "E",
+    "pista": "Empieza con E",
+    "definicion": "Palabra de tecnologia con la letra E (6)",
+    "respuesta": "Epalabra6"
+  },
+  {
+    "letra": "F",
+    "pista": "Empieza con F",
+    "definicion": "Palabra de tecnologia con la letra F (1)",
+    "respuesta": "Fpalabra1"
+  },
+  {
+    "letra": "F",
+    "pista": "Empieza con F",
+    "definicion": "Palabra de tecnologia con la letra F (2)",
+    "respuesta": "Fpalabra2"
+  },
+  {
+    "letra": "F",
+    "pista": "Empieza con F",
+    "definicion": "Palabra de tecnologia con la letra F (3)",
+    "respuesta": "Fpalabra3"
+  },
+  {
+    "letra": "F",
+    "pista": "Empieza con F",
+    "definicion": "Palabra de tecnologia con la letra F (4)",
+    "respuesta": "Fpalabra4"
+  },
+  {
+    "letra": "F",
+    "pista": "Empieza con F",
+    "definicion": "Palabra de tecnologia con la letra F (5)",
+    "respuesta": "Fpalabra5"
+  },
+  {
+    "letra": "F",
+    "pista": "Empieza con F",
+    "definicion": "Palabra de tecnologia con la letra F (6)",
+    "respuesta": "Fpalabra6"
+  },
+  {
+    "letra": "G",
+    "pista": "Empieza con G",
+    "definicion": "Palabra de tecnologia con la letra G (1)",
+    "respuesta": "Gpalabra1"
+  },
+  {
+    "letra": "G",
+    "pista": "Empieza con G",
+    "definicion": "Palabra de tecnologia con la letra G (2)",
+    "respuesta": "Gpalabra2"
+  },
+  {
+    "letra": "G",
+    "pista": "Empieza con G",
+    "definicion": "Palabra de tecnologia con la letra G (3)",
+    "respuesta": "Gpalabra3"
+  },
+  {
+    "letra": "G",
+    "pista": "Empieza con G",
+    "definicion": "Palabra de tecnologia con la letra G (4)",
+    "respuesta": "Gpalabra4"
+  },
+  {
+    "letra": "G",
+    "pista": "Empieza con G",
+    "definicion": "Palabra de tecnologia con la letra G (5)",
+    "respuesta": "Gpalabra5"
+  },
+  {
+    "letra": "G",
+    "pista": "Empieza con G",
+    "definicion": "Palabra de tecnologia con la letra G (6)",
+    "respuesta": "Gpalabra6"
+  },
+  {
+    "letra": "H",
+    "pista": "Empieza con H",
+    "definicion": "Palabra de tecnologia con la letra H (1)",
+    "respuesta": "Hpalabra1"
+  },
+  {
+    "letra": "H",
+    "pista": "Empieza con H",
+    "definicion": "Palabra de tecnologia con la letra H (2)",
+    "respuesta": "Hpalabra2"
+  },
+  {
+    "letra": "H",
+    "pista": "Empieza con H",
+    "definicion": "Palabra de tecnologia con la letra H (3)",
+    "respuesta": "Hpalabra3"
+  },
+  {
+    "letra": "H",
+    "pista": "Empieza con H",
+    "definicion": "Palabra de tecnologia con la letra H (4)",
+    "respuesta": "Hpalabra4"
+  },
+  {
+    "letra": "H",
+    "pista": "Empieza con H",
+    "definicion": "Palabra de tecnologia con la letra H (5)",
+    "respuesta": "Hpalabra5"
+  },
+  {
+    "letra": "H",
+    "pista": "Empieza con H",
+    "definicion": "Palabra de tecnologia con la letra H (6)",
+    "respuesta": "Hpalabra6"
+  },
+  {
+    "letra": "I",
+    "pista": "Empieza con I",
+    "definicion": "Palabra de tecnologia con la letra I (1)",
+    "respuesta": "Ipalabra1"
+  },
+  {
+    "letra": "I",
+    "pista": "Empieza con I",
+    "definicion": "Palabra de tecnologia con la letra I (2)",
+    "respuesta": "Ipalabra2"
+  },
+  {
+    "letra": "I",
+    "pista": "Empieza con I",
+    "definicion": "Palabra de tecnologia con la letra I (3)",
+    "respuesta": "Ipalabra3"
+  },
+  {
+    "letra": "I",
+    "pista": "Empieza con I",
+    "definicion": "Palabra de tecnologia con la letra I (4)",
+    "respuesta": "Ipalabra4"
+  },
+  {
+    "letra": "I",
+    "pista": "Empieza con I",
+    "definicion": "Palabra de tecnologia con la letra I (5)",
+    "respuesta": "Ipalabra5"
+  },
+  {
+    "letra": "I",
+    "pista": "Empieza con I",
+    "definicion": "Palabra de tecnologia con la letra I (6)",
+    "respuesta": "Ipalabra6"
+  },
+  {
+    "letra": "J",
+    "pista": "Empieza con J",
+    "definicion": "Palabra de tecnologia con la letra J (1)",
+    "respuesta": "Jpalabra1"
+  },
+  {
+    "letra": "J",
+    "pista": "Empieza con J",
+    "definicion": "Palabra de tecnologia con la letra J (2)",
+    "respuesta": "Jpalabra2"
+  },
+  {
+    "letra": "J",
+    "pista": "Empieza con J",
+    "definicion": "Palabra de tecnologia con la letra J (3)",
+    "respuesta": "Jpalabra3"
+  },
+  {
+    "letra": "J",
+    "pista": "Empieza con J",
+    "definicion": "Palabra de tecnologia con la letra J (4)",
+    "respuesta": "Jpalabra4"
+  },
+  {
+    "letra": "J",
+    "pista": "Empieza con J",
+    "definicion": "Palabra de tecnologia con la letra J (5)",
+    "respuesta": "Jpalabra5"
+  },
+  {
+    "letra": "J",
+    "pista": "Empieza con J",
+    "definicion": "Palabra de tecnologia con la letra J (6)",
+    "respuesta": "Jpalabra6"
+  },
+  {
+    "letra": "K",
+    "pista": "Empieza con K",
+    "definicion": "Palabra de tecnologia con la letra K (1)",
+    "respuesta": "Kpalabra1"
+  },
+  {
+    "letra": "K",
+    "pista": "Empieza con K",
+    "definicion": "Palabra de tecnologia con la letra K (2)",
+    "respuesta": "Kpalabra2"
+  },
+  {
+    "letra": "K",
+    "pista": "Empieza con K",
+    "definicion": "Palabra de tecnologia con la letra K (3)",
+    "respuesta": "Kpalabra3"
+  },
+  {
+    "letra": "K",
+    "pista": "Empieza con K",
+    "definicion": "Palabra de tecnologia con la letra K (4)",
+    "respuesta": "Kpalabra4"
+  },
+  {
+    "letra": "K",
+    "pista": "Empieza con K",
+    "definicion": "Palabra de tecnologia con la letra K (5)",
+    "respuesta": "Kpalabra5"
+  },
+  {
+    "letra": "K",
+    "pista": "Empieza con K",
+    "definicion": "Palabra de tecnologia con la letra K (6)",
+    "respuesta": "Kpalabra6"
+  },
+  {
+    "letra": "L",
+    "pista": "Empieza con L",
+    "definicion": "Palabra de tecnologia con la letra L (1)",
+    "respuesta": "Lpalabra1"
+  },
+  {
+    "letra": "L",
+    "pista": "Empieza con L",
+    "definicion": "Palabra de tecnologia con la letra L (2)",
+    "respuesta": "Lpalabra2"
+  },
+  {
+    "letra": "L",
+    "pista": "Empieza con L",
+    "definicion": "Palabra de tecnologia con la letra L (3)",
+    "respuesta": "Lpalabra3"
+  },
+  {
+    "letra": "L",
+    "pista": "Empieza con L",
+    "definicion": "Palabra de tecnologia con la letra L (4)",
+    "respuesta": "Lpalabra4"
+  },
+  {
+    "letra": "L",
+    "pista": "Empieza con L",
+    "definicion": "Palabra de tecnologia con la letra L (5)",
+    "respuesta": "Lpalabra5"
+  },
+  {
+    "letra": "L",
+    "pista": "Empieza con L",
+    "definicion": "Palabra de tecnologia con la letra L (6)",
+    "respuesta": "Lpalabra6"
+  },
+  {
+    "letra": "M",
+    "pista": "Empieza con M",
+    "definicion": "Palabra de tecnologia con la letra M (1)",
+    "respuesta": "Mpalabra1"
+  },
+  {
+    "letra": "M",
+    "pista": "Empieza con M",
+    "definicion": "Palabra de tecnologia con la letra M (2)",
+    "respuesta": "Mpalabra2"
+  },
+  {
+    "letra": "M",
+    "pista": "Empieza con M",
+    "definicion": "Palabra de tecnologia con la letra M (3)",
+    "respuesta": "Mpalabra3"
+  },
+  {
+    "letra": "M",
+    "pista": "Empieza con M",
+    "definicion": "Palabra de tecnologia con la letra M (4)",
+    "respuesta": "Mpalabra4"
+  },
+  {
+    "letra": "M",
+    "pista": "Empieza con M",
+    "definicion": "Palabra de tecnologia con la letra M (5)",
+    "respuesta": "Mpalabra5"
+  },
+  {
+    "letra": "M",
+    "pista": "Empieza con M",
+    "definicion": "Palabra de tecnologia con la letra M (6)",
+    "respuesta": "Mpalabra6"
+  },
+  {
+    "letra": "N",
+    "pista": "Empieza con N",
+    "definicion": "Palabra de tecnologia con la letra N (1)",
+    "respuesta": "Npalabra1"
+  },
+  {
+    "letra": "N",
+    "pista": "Empieza con N",
+    "definicion": "Palabra de tecnologia con la letra N (2)",
+    "respuesta": "Npalabra2"
+  },
+  {
+    "letra": "N",
+    "pista": "Empieza con N",
+    "definicion": "Palabra de tecnologia con la letra N (3)",
+    "respuesta": "Npalabra3"
+  },
+  {
+    "letra": "N",
+    "pista": "Empieza con N",
+    "definicion": "Palabra de tecnologia con la letra N (4)",
+    "respuesta": "Npalabra4"
+  },
+  {
+    "letra": "N",
+    "pista": "Empieza con N",
+    "definicion": "Palabra de tecnologia con la letra N (5)",
+    "respuesta": "Npalabra5"
+  },
+  {
+    "letra": "N",
+    "pista": "Empieza con N",
+    "definicion": "Palabra de tecnologia con la letra N (6)",
+    "respuesta": "Npalabra6"
+  },
+  {
+    "letra": "Ñ",
+    "pista": "Empieza con Ñ",
+    "definicion": "Palabra de tecnologia con la letra Ñ (1)",
+    "respuesta": "Ñpalabra1"
+  },
+  {
+    "letra": "Ñ",
+    "pista": "Empieza con Ñ",
+    "definicion": "Palabra de tecnologia con la letra Ñ (2)",
+    "respuesta": "Ñpalabra2"
+  },
+  {
+    "letra": "Ñ",
+    "pista": "Empieza con Ñ",
+    "definicion": "Palabra de tecnologia con la letra Ñ (3)",
+    "respuesta": "Ñpalabra3"
+  },
+  {
+    "letra": "Ñ",
+    "pista": "Empieza con Ñ",
+    "definicion": "Palabra de tecnologia con la letra Ñ (4)",
+    "respuesta": "Ñpalabra4"
+  },
+  {
+    "letra": "Ñ",
+    "pista": "Empieza con Ñ",
+    "definicion": "Palabra de tecnologia con la letra Ñ (5)",
+    "respuesta": "Ñpalabra5"
+  },
+  {
+    "letra": "Ñ",
+    "pista": "Empieza con Ñ",
+    "definicion": "Palabra de tecnologia con la letra Ñ (6)",
+    "respuesta": "Ñpalabra6"
+  },
+  {
+    "letra": "O",
+    "pista": "Empieza con O",
+    "definicion": "Palabra de tecnologia con la letra O (1)",
+    "respuesta": "Opalabra1"
+  },
+  {
+    "letra": "O",
+    "pista": "Empieza con O",
+    "definicion": "Palabra de tecnologia con la letra O (2)",
+    "respuesta": "Opalabra2"
+  },
+  {
+    "letra": "O",
+    "pista": "Empieza con O",
+    "definicion": "Palabra de tecnologia con la letra O (3)",
+    "respuesta": "Opalabra3"
+  },
+  {
+    "letra": "O",
+    "pista": "Empieza con O",
+    "definicion": "Palabra de tecnologia con la letra O (4)",
+    "respuesta": "Opalabra4"
+  },
+  {
+    "letra": "O",
+    "pista": "Empieza con O",
+    "definicion": "Palabra de tecnologia con la letra O (5)",
+    "respuesta": "Opalabra5"
+  },
+  {
+    "letra": "O",
+    "pista": "Empieza con O",
+    "definicion": "Palabra de tecnologia con la letra O (6)",
+    "respuesta": "Opalabra6"
+  },
+  {
+    "letra": "P",
+    "pista": "Empieza con P",
+    "definicion": "Palabra de tecnologia con la letra P (1)",
+    "respuesta": "Ppalabra1"
+  },
+  {
+    "letra": "P",
+    "pista": "Empieza con P",
+    "definicion": "Palabra de tecnologia con la letra P (2)",
+    "respuesta": "Ppalabra2"
+  },
+  {
+    "letra": "P",
+    "pista": "Empieza con P",
+    "definicion": "Palabra de tecnologia con la letra P (3)",
+    "respuesta": "Ppalabra3"
+  },
+  {
+    "letra": "P",
+    "pista": "Empieza con P",
+    "definicion": "Palabra de tecnologia con la letra P (4)",
+    "respuesta": "Ppalabra4"
+  },
+  {
+    "letra": "P",
+    "pista": "Empieza con P",
+    "definicion": "Palabra de tecnologia con la letra P (5)",
+    "respuesta": "Ppalabra5"
+  },
+  {
+    "letra": "P",
+    "pista": "Empieza con P",
+    "definicion": "Palabra de tecnologia con la letra P (6)",
+    "respuesta": "Ppalabra6"
+  },
+  {
+    "letra": "Q",
+    "pista": "Empieza con Q",
+    "definicion": "Palabra de tecnologia con la letra Q (1)",
+    "respuesta": "Qpalabra1"
+  },
+  {
+    "letra": "Q",
+    "pista": "Empieza con Q",
+    "definicion": "Palabra de tecnologia con la letra Q (2)",
+    "respuesta": "Qpalabra2"
+  },
+  {
+    "letra": "Q",
+    "pista": "Empieza con Q",
+    "definicion": "Palabra de tecnologia con la letra Q (3)",
+    "respuesta": "Qpalabra3"
+  },
+  {
+    "letra": "Q",
+    "pista": "Empieza con Q",
+    "definicion": "Palabra de tecnologia con la letra Q (4)",
+    "respuesta": "Qpalabra4"
+  },
+  {
+    "letra": "Q",
+    "pista": "Empieza con Q",
+    "definicion": "Palabra de tecnologia con la letra Q (5)",
+    "respuesta": "Qpalabra5"
+  },
+  {
+    "letra": "Q",
+    "pista": "Empieza con Q",
+    "definicion": "Palabra de tecnologia con la letra Q (6)",
+    "respuesta": "Qpalabra6"
+  },
+  {
+    "letra": "R",
+    "pista": "Empieza con R",
+    "definicion": "Palabra de tecnologia con la letra R (1)",
+    "respuesta": "Rpalabra1"
+  },
+  {
+    "letra": "R",
+    "pista": "Empieza con R",
+    "definicion": "Palabra de tecnologia con la letra R (2)",
+    "respuesta": "Rpalabra2"
+  },
+  {
+    "letra": "R",
+    "pista": "Empieza con R",
+    "definicion": "Palabra de tecnologia con la letra R (3)",
+    "respuesta": "Rpalabra3"
+  },
+  {
+    "letra": "R",
+    "pista": "Empieza con R",
+    "definicion": "Palabra de tecnologia con la letra R (4)",
+    "respuesta": "Rpalabra4"
+  },
+  {
+    "letra": "R",
+    "pista": "Empieza con R",
+    "definicion": "Palabra de tecnologia con la letra R (5)",
+    "respuesta": "Rpalabra5"
+  },
+  {
+    "letra": "R",
+    "pista": "Empieza con R",
+    "definicion": "Palabra de tecnologia con la letra R (6)",
+    "respuesta": "Rpalabra6"
+  },
+  {
+    "letra": "S",
+    "pista": "Empieza con S",
+    "definicion": "Palabra de tecnologia con la letra S (1)",
+    "respuesta": "Spalabra1"
+  },
+  {
+    "letra": "S",
+    "pista": "Empieza con S",
+    "definicion": "Palabra de tecnologia con la letra S (2)",
+    "respuesta": "Spalabra2"
+  },
+  {
+    "letra": "S",
+    "pista": "Empieza con S",
+    "definicion": "Palabra de tecnologia con la letra S (3)",
+    "respuesta": "Spalabra3"
+  },
+  {
+    "letra": "S",
+    "pista": "Empieza con S",
+    "definicion": "Palabra de tecnologia con la letra S (4)",
+    "respuesta": "Spalabra4"
+  },
+  {
+    "letra": "S",
+    "pista": "Empieza con S",
+    "definicion": "Palabra de tecnologia con la letra S (5)",
+    "respuesta": "Spalabra5"
+  },
+  {
+    "letra": "S",
+    "pista": "Empieza con S",
+    "definicion": "Palabra de tecnologia con la letra S (6)",
+    "respuesta": "Spalabra6"
+  },
+  {
+    "letra": "T",
+    "pista": "Empieza con T",
+    "definicion": "Palabra de tecnologia con la letra T (1)",
+    "respuesta": "Tpalabra1"
+  },
+  {
+    "letra": "T",
+    "pista": "Empieza con T",
+    "definicion": "Palabra de tecnologia con la letra T (2)",
+    "respuesta": "Tpalabra2"
+  },
+  {
+    "letra": "T",
+    "pista": "Empieza con T",
+    "definicion": "Palabra de tecnologia con la letra T (3)",
+    "respuesta": "Tpalabra3"
+  },
+  {
+    "letra": "T",
+    "pista": "Empieza con T",
+    "definicion": "Palabra de tecnologia con la letra T (4)",
+    "respuesta": "Tpalabra4"
+  },
+  {
+    "letra": "T",
+    "pista": "Empieza con T",
+    "definicion": "Palabra de tecnologia con la letra T (5)",
+    "respuesta": "Tpalabra5"
+  },
+  {
+    "letra": "T",
+    "pista": "Empieza con T",
+    "definicion": "Palabra de tecnologia con la letra T (6)",
+    "respuesta": "Tpalabra6"
+  },
+  {
+    "letra": "U",
+    "pista": "Empieza con U",
+    "definicion": "Palabra de tecnologia con la letra U (1)",
+    "respuesta": "Upalabra1"
+  },
+  {
+    "letra": "U",
+    "pista": "Empieza con U",
+    "definicion": "Palabra de tecnologia con la letra U (2)",
+    "respuesta": "Upalabra2"
+  },
+  {
+    "letra": "U",
+    "pista": "Empieza con U",
+    "definicion": "Palabra de tecnologia con la letra U (3)",
+    "respuesta": "Upalabra3"
+  },
+  {
+    "letra": "U",
+    "pista": "Empieza con U",
+    "definicion": "Palabra de tecnologia con la letra U (4)",
+    "respuesta": "Upalabra4"
+  },
+  {
+    "letra": "U",
+    "pista": "Empieza con U",
+    "definicion": "Palabra de tecnologia con la letra U (5)",
+    "respuesta": "Upalabra5"
+  },
+  {
+    "letra": "U",
+    "pista": "Empieza con U",
+    "definicion": "Palabra de tecnologia con la letra U (6)",
+    "respuesta": "Upalabra6"
+  },
+  {
+    "letra": "V",
+    "pista": "Empieza con V",
+    "definicion": "Palabra de tecnologia con la letra V (1)",
+    "respuesta": "Vpalabra1"
+  },
+  {
+    "letra": "V",
+    "pista": "Empieza con V",
+    "definicion": "Palabra de tecnologia con la letra V (2)",
+    "respuesta": "Vpalabra2"
+  },
+  {
+    "letra": "V",
+    "pista": "Empieza con V",
+    "definicion": "Palabra de tecnologia con la letra V (3)",
+    "respuesta": "Vpalabra3"
+  },
+  {
+    "letra": "V",
+    "pista": "Empieza con V",
+    "definicion": "Palabra de tecnologia con la letra V (4)",
+    "respuesta": "Vpalabra4"
+  },
+  {
+    "letra": "V",
+    "pista": "Empieza con V",
+    "definicion": "Palabra de tecnologia con la letra V (5)",
+    "respuesta": "Vpalabra5"
+  },
+  {
+    "letra": "V",
+    "pista": "Empieza con V",
+    "definicion": "Palabra de tecnologia con la letra V (6)",
+    "respuesta": "Vpalabra6"
+  },
+  {
+    "letra": "W",
+    "pista": "Empieza con W",
+    "definicion": "Palabra de tecnologia con la letra W (1)",
+    "respuesta": "Wpalabra1"
+  },
+  {
+    "letra": "W",
+    "pista": "Empieza con W",
+    "definicion": "Palabra de tecnologia con la letra W (2)",
+    "respuesta": "Wpalabra2"
+  },
+  {
+    "letra": "W",
+    "pista": "Empieza con W",
+    "definicion": "Palabra de tecnologia con la letra W (3)",
+    "respuesta": "Wpalabra3"
+  },
+  {
+    "letra": "W",
+    "pista": "Empieza con W",
+    "definicion": "Palabra de tecnologia con la letra W (4)",
+    "respuesta": "Wpalabra4"
+  },
+  {
+    "letra": "W",
+    "pista": "Empieza con W",
+    "definicion": "Palabra de tecnologia con la letra W (5)",
+    "respuesta": "Wpalabra5"
+  },
+  {
+    "letra": "W",
+    "pista": "Empieza con W",
+    "definicion": "Palabra de tecnologia con la letra W (6)",
+    "respuesta": "Wpalabra6"
+  },
+  {
+    "letra": "X",
+    "pista": "Empieza con X",
+    "definicion": "Palabra de tecnologia con la letra X (1)",
+    "respuesta": "Xpalabra1"
+  },
+  {
+    "letra": "X",
+    "pista": "Empieza con X",
+    "definicion": "Palabra de tecnologia con la letra X (2)",
+    "respuesta": "Xpalabra2"
+  },
+  {
+    "letra": "X",
+    "pista": "Empieza con X",
+    "definicion": "Palabra de tecnologia con la letra X (3)",
+    "respuesta": "Xpalabra3"
+  },
+  {
+    "letra": "X",
+    "pista": "Empieza con X",
+    "definicion": "Palabra de tecnologia con la letra X (4)",
+    "respuesta": "Xpalabra4"
+  },
+  {
+    "letra": "X",
+    "pista": "Empieza con X",
+    "definicion": "Palabra de tecnologia con la letra X (5)",
+    "respuesta": "Xpalabra5"
+  },
+  {
+    "letra": "X",
+    "pista": "Empieza con X",
+    "definicion": "Palabra de tecnologia con la letra X (6)",
+    "respuesta": "Xpalabra6"
+  },
+  {
+    "letra": "Y",
+    "pista": "Empieza con Y",
+    "definicion": "Palabra de tecnologia con la letra Y (1)",
+    "respuesta": "Ypalabra1"
+  },
+  {
+    "letra": "Y",
+    "pista": "Empieza con Y",
+    "definicion": "Palabra de tecnologia con la letra Y (2)",
+    "respuesta": "Ypalabra2"
+  },
+  {
+    "letra": "Y",
+    "pista": "Empieza con Y",
+    "definicion": "Palabra de tecnologia con la letra Y (3)",
+    "respuesta": "Ypalabra3"
+  },
+  {
+    "letra": "Y",
+    "pista": "Empieza con Y",
+    "definicion": "Palabra de tecnologia con la letra Y (4)",
+    "respuesta": "Ypalabra4"
+  },
+  {
+    "letra": "Y",
+    "pista": "Empieza con Y",
+    "definicion": "Palabra de tecnologia con la letra Y (5)",
+    "respuesta": "Ypalabra5"
+  },
+  {
+    "letra": "Y",
+    "pista": "Empieza con Y",
+    "definicion": "Palabra de tecnologia con la letra Y (6)",
+    "respuesta": "Ypalabra6"
+  },
+  {
+    "letra": "Z",
+    "pista": "Empieza con Z",
+    "definicion": "Palabra de tecnologia con la letra Z (1)",
+    "respuesta": "Zpalabra1"
+  },
+  {
+    "letra": "Z",
+    "pista": "Empieza con Z",
+    "definicion": "Palabra de tecnologia con la letra Z (2)",
+    "respuesta": "Zpalabra2"
+  },
+  {
+    "letra": "Z",
+    "pista": "Empieza con Z",
+    "definicion": "Palabra de tecnologia con la letra Z (3)",
+    "respuesta": "Zpalabra3"
+  },
+  {
+    "letra": "Z",
+    "pista": "Empieza con Z",
+    "definicion": "Palabra de tecnologia con la letra Z (4)",
+    "respuesta": "Zpalabra4"
+  },
+  {
+    "letra": "Z",
+    "pista": "Empieza con Z",
+    "definicion": "Palabra de tecnologia con la letra Z (5)",
+    "respuesta": "Zpalabra5"
+  },
+  {
+    "letra": "Z",
+    "pista": "Empieza con Z",
+    "definicion": "Palabra de tecnologia con la letra Z (6)",
+    "respuesta": "Zpalabra6"
+  }
+]
