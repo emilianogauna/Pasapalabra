@@ -65,7 +65,7 @@ function checkAnswer(pos) {
 		$(".circle .item").eq(words[pos].idNumber).addClass("item--failure");
 	}
 	remainingWords--;
-	$("js--score").html(remainingWords);
+	$("#js--score").html(remainingWords);
 
 	return count++;
 }
