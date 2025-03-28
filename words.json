@@ -69,7 +69,7 @@
         "letra": "D",
         "pista": "Empieza con D",
         "definicion": "Técnica para ocultar información.",
-        "respuesta": "Descifrado"
+        "respuesta": "Descifrado",
         "-comentario": "cambiar"
     },
     {
@@ -94,7 +94,7 @@
         "letra": "F",
         "pista": "Empieza con F",
         "definicion": "Conjunto de archivos en una ubicación.",
-        "respuesta": "Folder"
+        "respuesta": "Folder",
         "-comentario": "cambiar"
     },
     {
@@ -138,14 +138,14 @@
         "letra": "H",
         "pista": "Empieza con H",
         "definicion": "Lenguaje de marcado para la web.",
-        "respuesta": "HTML"
+        "respuesta": "HTML",
         "-comentario": "cambiar"
     },
     {
         "letra": "H",
         "pista": "Empieza con H",
         "definicion": "Protocolo para sitios web.",
-        "respuesta": "HTTP"
+        "respuesta": "HTTP",
         "-comentario": "cambiar"
     },
     {
@@ -164,14 +164,14 @@
         "letra": "I",
         "pista": "Empieza con I",
         "definicion": "Organización que crea normas técnicas.",
-        "respuesta": "ISO"
+        "respuesta": "ISO",
         "-comentario": "cambiar"
     },
     {
         "letra": "J",
         "pista": "Empieza con J",
         "definicion": "Lenguaje de programación web.",
-        "respuesta": "JavaScript"
+        "respuesta": "JavaScript",
         "-comentario": "cambiar"
     },
     {
@@ -196,14 +196,14 @@
         "letra": "K",
         "pista": "Empieza con K",
         "definicion": "Sistema operativo de código abierto.",
-        "respuesta": "Kubuntu"
+        "respuesta": "Kubuntu",
         "-comentario": "cambiar"
     },
     {
         "letra": "K",
         "pista": "Empieza con K",
         "definicion": "Aplicación educativa de dibujo.",
-        "respuesta": "Krita"
+        "respuesta": "Krita",
         "-comentario": "cambiar"
     },
     {
