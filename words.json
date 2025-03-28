@@ -62,12 +62,6 @@
     {
         "letra": "D",
         "pista": "Empieza con D",
-        "definicion": "Archivo que contiene información.",
-        "respuesta": "Documento"
-    },
-    {
-        "letra": "D",
-        "pista": "Empieza con D",
         "definicion": "Recurso visual para proyectar imagen.",
         "respuesta": "Display"
     },
@@ -76,6 +70,7 @@
         "pista": "Empieza con D",
         "definicion": "Técnica para ocultar información.",
         "respuesta": "Descifrado"
+        "-comentario": "cambiar"
     },
     {
         "letra": "E",
@@ -100,6 +95,7 @@
         "pista": "Empieza con F",
         "definicion": "Conjunto de archivos en una ubicación.",
         "respuesta": "Folder"
+        "-comentario": "cambiar"
     },
     {
         "letra": "F",
@@ -112,11 +108,12 @@
         "pista": "Empieza con F",
         "definicion": "Unidad de almacenamiento USB.",
         "respuesta": "Flash"
+        "-comentario": "cambiar"
     },
     {
         "letra": "G",
         "pista": "Empieza con G",
-        "definicion": "Sistema de posicionamiento global.",
+        "definicion": "Sistema de posicionamiento global(muestra ubicaciones).",
         "respuesta": "GPS"
     },
     {
@@ -142,12 +139,14 @@
         "pista": "Empieza con H",
         "definicion": "Lenguaje de marcado para la web.",
         "respuesta": "HTML"
+        "-comentario": "cambiar"
     },
     {
         "letra": "H",
         "pista": "Empieza con H",
         "definicion": "Protocolo para sitios web.",
         "respuesta": "HTTP"
+        "-comentario": "cambiar"
     },
     {
         "letra": "I",
@@ -158,7 +157,7 @@
     {
         "letra": "I",
         "pista": "Empieza con I",
-        "definicion": "Máquina que imprime documentos.",
+        "definicion": "Máquina que convierte documentos en papel.",
         "respuesta": "Impresora"
     },
     {
@@ -166,12 +165,14 @@
         "pista": "Empieza con I",
         "definicion": "Organización que crea normas técnicas.",
         "respuesta": "ISO"
+        "-comentario": "cambiar"
     },
     {
         "letra": "J",
         "pista": "Empieza con J",
         "definicion": "Lenguaje de programación web.",
         "respuesta": "JavaScript"
+        "-comentario": "cambiar"
     },
     {
         "letra": "J",
@@ -196,12 +197,14 @@
         "pista": "Empieza con K",
         "definicion": "Sistema operativo de código abierto.",
         "respuesta": "Kubuntu"
+        "-comentario": "cambiar"
     },
     {
         "letra": "K",
         "pista": "Empieza con K",
         "definicion": "Aplicación educativa de dibujo.",
         "respuesta": "Krita"
+        "-comentario": "cambiar"
     },
     {
         "letra": "L",
@@ -218,7 +221,7 @@
     {
         "letra": "L",
         "pista": "Empieza con L",
-        "definicion": "Parte del teclado con letras.",
+        "definicion": "Cada uno de los signos gráficos que componen el alfabeto de un idioma.",
         "respuesta": "Letra"
     },
     {
@@ -236,7 +239,7 @@
     {
         "letra": "M",
         "pista": "Empieza con M",
-        "definicion": "Memoria de acceso aleatorio.",
+        "definicion": "componente que almacena datos e instrucciones que el procesador puede acceder rápidamente.",
         "respuesta": "Memoria"
     },
     {
@@ -260,14 +263,14 @@
     {
         "letra": "Ñ",
         "pista": "Contiene Ñ",
-        "definicion": "Proceso educativo relacionado con la tecnologia.",
-        "respuesta": "Ensenar"
+        "definicion": "Proceso educativo.",
+        "respuesta": "Enseñar"
     },
     {
         "letra": "Ñ",
         "pista": "Contiene Ñ",
-        "definicion": "Dato que se transmite por redes.",
-        "respuesta": "Senal"
+        "definicion": "Dato que se transmite por antena.",
+        "respuesta": "Señal"
     },
     {
         "letra": "Ñ",
