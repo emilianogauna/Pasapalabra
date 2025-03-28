@@ -1,493 +1,494 @@
 [
-  {
-    "letra": "A",
-    "pista": "Empieza con A",
-    "definicion": "Tecnología que permite acciones sin intervención humana.",
-    "respuesta": "Automatizacion"
-  },
-  {
-    "letra": "A",
-    "pista": "Empieza con A",
-    "definicion": "Dispositivo de sonido que se pone en los oídos.",
-    "respuesta": "Auriculares"
-  },
-  {
-    "letra": "A",
-    "pista": "Empieza con A",
-    "definicion": "Aplicación pequeña para dispositivos móviles.",
-    "respuesta": "App"
-  },
-  {
-    "letra": "B",
-    "pista": "Empieza con B",
-    "definicion": "Copia de seguridad de archivos importantes.",
-    "respuesta": "Backup"
-  },
-  {
-    "letra": "B",
-    "pista": "Empieza con B",
-    "definicion": "Sitio donde se escriben entradas o artículos.",
-    "respuesta": "Blog"
-  },
-  {
-    "letra": "B",
-    "pista": "Empieza con B",
-    "definicion": "Unidad mínima de información digital.",
-    "respuesta": "Bit"
-  },
-  {
-    "letra": "C",
-    "pista": "Empieza con C",
-    "definicion": "Lenguaje de estilo para páginas web.",
-    "respuesta": "CSS"
-  },
-  {
-    "letra": "C",
-    "pista": "Empieza con C",
-    "definicion": "Dispositivo que toma fotografías o videos.",
-    "respuesta": "Camara"
-  },
-  {
-    "letra": "C",
-    "pista": "Empieza con C",
-    "definicion": "Espacio donde se organizan archivos.",
-    "respuesta": "Carpeta"
-  },
-  {
-    "letra": "D",
-    "pista": "Empieza con D",
-    "definicion": "Archivo que contiene información.",
-    "respuesta": "Documento"
-  }
-  {
-    "letra": "D",
-    "pista": "Empieza con D",
-    "definicion": "Archivo que contiene información.",
-    "respuesta": "Documento"
-  },
-  {
-    "letra": "D",
-    "pista": "Empieza con D",
-    "definicion": "Recurso visual para proyectar imagen.",
-    "respuesta": "Display"
-  },
-  {
-    "letra": "D",
-    "pista": "Empieza con D",
-    "definicion": "Técnica para ocultar información.",
-    "respuesta": "Descifrado"
-  },
-  {
-    "letra": "E",
-    "pista": "Empieza con E",
-    "definicion": "Correo electrónico.",
-    "respuesta": "Email"
-  },
-  {
-    "letra": "E",
-    "pista": "Empieza con E",
-    "definicion": "Libro digital.",
-    "respuesta": "Ebook"
-  },
-  {
-    "letra": "E",
-    "pista": "Empieza con E",
-    "definicion": "Editor de texto o código.",
-    "respuesta": "Editor"
-  },
-  {
-    "letra": "F",
-    "pista": "Empieza con F",
-    "definicion": "Conjunto de archivos en una ubicación.",
-    "respuesta": "Folder"
-  },
-  {
-    "letra": "F",
-    "pista": "Empieza con F",
-    "definicion": "Imagen tomada con una cámara.",
-    "respuesta": "Foto"
-  },
-  {
-    "letra": "F",
-    "pista": "Empieza con F",
-    "definicion": "Unidad de almacenamiento USB.",
-    "respuesta": "Flash"
-  },
-  {
-    "letra": "G",
-    "pista": "Empieza con G",
-    "definicion": "Sistema de posicionamiento global.",
-    "respuesta": "GPS"
-  },
-  {
-    "letra": "G",
-    "pista": "Empieza con G",
-    "definicion": "Buscador en internet muy popular.",
-    "respuesta": "Google"
-  },
-  {
-    "letra": "G",
-    "pista": "Empieza con G",
-    "definicion": "Archivo que contiene imágenes animadas.",
-    "respuesta": "Gif"
-  },
-  {
-    "letra": "H",
-    "pista": "Empieza con H",
-    "definicion": "Piezas físicas de una computadora.",
-    "respuesta": "Hardware"
-  },
-  {
-    "letra": "H",
-    "pista": "Empieza con H",
-    "definicion": "Lenguaje de marcado para la web.",
-    "respuesta": "HTML"
-  },
-  {
-    "letra": "H",
-    "pista": "Empieza con H",
-    "definicion": "Protocolo para sitios web.",
-    "respuesta": "HTTP"
-  }
-  {
-    "letra": "I",
-    "pista": "Empieza con I",
-    "definicion": "Conexión global entre computadoras.",
-    "respuesta": "Internet"
-  },
-  {
-    "letra": "I",
-    "pista": "Empieza con I",
-    "definicion": "Máquina que imprime documentos.",
-    "respuesta": "Impresora"
-  },
-  {
-    "letra": "I",
-    "pista": "Empieza con I",
-    "definicion": "Organización que crea normas técnicas.",
-    "respuesta": "ISO"
-  },
-  {
-    "letra": "J",
-    "pista": "Empieza con J",
-    "definicion": "Lenguaje de programación web.",
-    "respuesta": "JavaScript"
-  },
-  {
-    "letra": "J",
-    "pista": "Empieza con J",
-    "definicion": "Control para videojuegos.",
-    "respuesta": "Joystick"
-  },
-  {
-    "letra": "J",
-    "pista": "Empieza con J",
-    "definicion": "Formato comprimido de imágenes.",
-    "respuesta": "JPEG"
-  },
-  {
-    "letra": "K",
-    "pista": "Empieza con K",
-    "definicion": "Unidad de medida digital.",
-    "respuesta": "Kilobyte"
-  },
-  {
-    "letra": "K",
-    "pista": "Empieza con K",
-    "definicion": "Sistema operativo de código abierto.",
-    "respuesta": "Kubuntu"
-  },
-  {
-    "letra": "K",
-    "pista": "Empieza con K",
-    "definicion": "Aplicación educativa de dibujo.",
-    "respuesta": "Krita"
-  },
-  {
-    "letra": "L",
-    "pista": "Empieza con L",
-    "definicion": "Sistema operativo libre.",
-    "respuesta": "Linux"
-  },
-  {
-    "letra": "L",
-    "pista": "Empieza con L",
-    "definicion": "Computadora portátil.",
-    "respuesta": "Laptop"
-  },
-  {
-    "letra": "L",
-    "pista": "Empieza con L",
-    "definicion": "Parte del teclado con letras.",
-    "respuesta": "Letra"
-  },
-  {
-    "letra": "M",
-    "pista": "Empieza con M",
-    "definicion": "Dispositivo señalador.",
-    "respuesta": "Mouse"
-  },
-  {
-    "letra": "M",
-    "pista": "Empieza con M",
-    "definicion": "Pantalla de la computadora.",
-    "respuesta": "Monitor"
-  },
-  {
-    "letra": "M",
-    "pista": "Empieza con M",
-    "definicion": "Memoria de acceso aleatorio.",
-    "respuesta": "Memoria"
-  }
-  {
-    "letra": "N",
-    "pista": "Empieza con N",
-    "definicion": "Red de computadoras conectadas.",
-    "respuesta": "Network"
-  },
-  {
-    "letra": "N",
-    "pista": "Empieza con N",
-    "definicion": "Servicio que almacena archivos en internet.",
-    "respuesta": "Nube"
-  },
-  {
-    "letra": "N",
-    "pista": "Empieza con N",
-    "definicion": "Programa para mostrar noticias.",
-    "respuesta": "Noticiero"
-  }
-  {
-    "letra": "Ñ",
-    "pista": "Contiene Ñ",
-    "definicion": "Proceso educativo relacionado con la tecnologia.",
-    "respuesta": "Ensenar"
-  },
-  {
-    "letra": "Ñ",
-    "pista": "Contiene Ñ",
-    "definicion": "Dato que se transmite por redes.",
-    "respuesta": "Senal"
-  },
-  {
-    "letra": "Ñ",
-    "pista": "Contiene Ñ",
-    "definicion": "Accion de mostrar informacion.",
-    "respuesta": "Mostrar"
-  }
-  {
-    "letra": "O",
-    "pista": "Empieza con O",
-    "definicion": "Otro nombre para computadora.",
-    "respuesta": "Ordenador"
-  },
-  {
-    "letra": "O",
-    "pista": "Empieza con O",
-    "definicion": "Programa de oficina digital.",
-    "respuesta": "Ofimatica"
-  },
-  {
-    "letra": "O",
-    "pista": "Empieza con O",
-    "definicion": "Sistema libre basado en Android.",
-    "respuesta": "OxygenOS"
-  },
-  {
-    "letra": "P",
-    "pista": "Empieza con P",
-    "definicion": "Dispositivo que muestra informacion.",
-    "respuesta": "Pantalla"
-  },
-  {
-    "letra": "P",
-    "pista": "Empieza con P",
-    "definicion": "Documento digital para compartir.",
-    "respuesta": "PDF"
-  },
-  {
-    "letra": "P",
-    "pista": "Empieza con P",
-    "definicion": "Puerto para conectar dispositivos.",
-    "respuesta": "Puerto"
-  },
-  {
-    "letra": "Q",
-    "pista": "Empieza con Q",
-    "definicion": "Codigo que almacena informacion.",
-    "respuesta": "QR"
-  },
-  {
-    "letra": "Q",
-    "pista": "Empieza con Q",
-    "definicion": "Consulta en base de datos.",
-    "respuesta": "Query"
-  },
-  {
-    "letra": "Q",
-    "pista": "Empieza con Q",
-    "definicion": "Juego para responder preguntas.",
-    "respuesta": "Quiz"
-  },
-  {
-    "letra": "R",
-    "pista": "Empieza con R",
-    "definicion": "Dispositivo para conectar internet.",
-    "respuesta": "Router"
-  },
-  {
-    "letra": "R",
-    "pista": "Empieza con R",
-    "definicion": "Tecnologia de simulacion.",
-    "respuesta": "Realidad"
-  },
-  {
-    "letra": "R",
-    "pista": "Empieza con R",
-    "definicion": "Memoria de solo lectura.",
-    "respuesta": "ROM"
-  },
-  {
-    "letra": "S",
-    "pista": "Empieza con S",
-    "definicion": "Programa que hace funcionar el hardware.",
-    "respuesta": "Software"
-  },
-  {
-    "letra": "S",
-    "pista": "Empieza con S",
-    "definicion": "Lenguaje de hojas de estilo.",
-    "respuesta": "Sass"
-  },
-  {
-    "letra": "S",
-    "pista": "Empieza con S",
-    "definicion": "Sistema de navegacion satelital.",
-    "respuesta": "Satelite"
-  }
-  {
-    "letra": "T",
-    "pista": "Empieza con T",
-    "definicion": "Computadora portátil táctil.",
-    "respuesta": "Tablet"
-  },
-  {
-    "letra": "T",
-    "pista": "Empieza con T",
-    "definicion": "Unidad de medida de almacenamiento.",
-    "respuesta": "Terabyte"
-  },
-  {
-    "letra": "T",
-    "pista": "Empieza con T",
-    "definicion": "Red de publicaciones cortas.",
-    "respuesta": "Twitter"
-  },
-  {
-    "letra": "U",
-    "pista": "Empieza con U",
-    "definicion": "Conector universal.",
-    "respuesta": "USB"
-  },
-  {
-    "letra": "U",
-    "pista": "Empieza con U",
-    "definicion": "Nombre de usuario.",
-    "respuesta": "Usuario"
-  },
-  {
-    "letra": "U",
-    "pista": "Empieza con U",
-    "definicion": "Diseño de la interacción del sistema.",
-    "respuesta": "UX"
-  },
-  {
-    "letra": "V",
-    "pista": "Empieza con V",
-    "definicion": "Contenido en movimiento.",
-    "respuesta": "Video"
-  },
-  {
-    "letra": "V",
-    "pista": "Empieza con V",
-    "definicion": "Sistema de versiones de código.",
-    "respuesta": "Versionado"
-  },
-  {
-    "letra": "V",
-    "pista": "Empieza con V",
-    "definicion": "Gafas para realidad simulada.",
-    "respuesta": "Visor"
-  },
-  {
-    "letra": "W",
-    "pista": "Empieza con W",
-    "definicion": "Red global de páginas.",
-    "respuesta": "Web"
-  },
-  {
-    "letra": "W",
-    "pista": "Empieza con W",
-    "definicion": "Aplicación de mensajería.",
-    "respuesta": "WhatsApp"
-  },
-  {
-    "letra": "W",
-    "pista": "Empieza con W",
-    "definicion": "Sistema operativo para PC.",
-    "respuesta": "Windows"
-  },
-  {
-    "letra": "X",
-    "pista": "Empieza con X",
-    "definicion": "Consola de videojuegos.",
-    "respuesta": "Xbox"
-  },
-  {
-    "letra": "X",
-    "pista": "Empieza con X",
-    "definicion": "Sistema gráfico en Linux.",
-    "respuesta": "Xorg"
-  },
-  {
-    "letra": "X",
-    "pista": "Empieza con X",
-    "definicion": "Archivo comprimido.",
-    "respuesta": "Xz"
-  },
-  {
-    "letra": "Y",
-    "pista": "Empieza con Y",
-    "definicion": "Plataforma de videos.",
-    "respuesta": "YouTube"
-  },
-  {
-    "letra": "Y",
-    "pista": "Empieza con Y",
-    "definicion": "Lenguaje de estilo para interfaces.",
-    "respuesta": "Yaml"
-  },
-  {
-    "letra": "Y",
-    "pista": "Empieza con Y",
-    "definicion": "Sitio web de preguntas y respuestas.",
-    "respuesta": "Yahoo"
-  },
-  {
-    "letra": "Z",
-    "pista": "Empieza con Z",
-    "definicion": "Formato de compresión de archivos.",
-    "respuesta": "Zip"
-  },
-  {
-    "letra": "Z",
-    "pista": "Empieza con Z",
-    "definicion": "Librería de animaciones en JavaScript.",
-    "respuesta": "Zdog"
-  },
-  {
-    "letra": "Z",
-    "pista": "Empieza con Z",
-    "definicion": "Formato de disco en Linux.",
-    "respuesta": "ZFS"
-  }
+    {
+        "letra": "A",
+        "pista": "Empieza con A",
+        "definicion": "Tecnología que permite acciones sin intervención humana.",
+        "respuesta": "Automatizacion"
+    },
+    {
+        "letra": "A",
+        "pista": "Empieza con A",
+        "definicion": "Dispositivo de sonido que se pone en los oídos.",
+        "respuesta": "Auriculares"
+    },
+    {
+        "letra": "A",
+        "pista": "Empieza con A",
+        "definicion": "Aplicación pequeña para dispositivos móviles.",
+        "respuesta": "App"
+    },
+    {
+        "letra": "B",
+        "pista": "Empieza con B",
+        "definicion": "Copia de seguridad de archivos importantes.",
+        "respuesta": "Backup"
+    },
+    {
+        "letra": "B",
+        "pista": "Empieza con B",
+        "definicion": "Sitio donde se escriben entradas o artículos.",
+        "respuesta": "Blog"
+    },
+    {
+        "letra": "B",
+        "pista": "Empieza con B",
+        "definicion": "Unidad mínima de información digital.",
+        "respuesta": "Bit"
+    },
+    {
+        "letra": "C",
+        "pista": "Empieza con C",
+        "definicion": "Lenguaje de estilo para páginas web.",
+        "respuesta": "CSS"
+    },
+    {
+        "letra": "C",
+        "pista": "Empieza con C",
+        "definicion": "Dispositivo que toma fotografías o videos.",
+        "respuesta": "Camara"
+    },
+    {
+        "letra": "C",
+        "pista": "Empieza con C",
+        "definicion": "Espacio donde se organizan archivos.",
+        "respuesta": "Carpeta"
+    },
+    {
+        "letra": "D",
+        "pista": "Empieza con D",
+        "definicion": "Archivo que contiene información.",
+        "respuesta": "Documento"
+    },
+    {
+        "letra": "D",
+        "pista": "Empieza con D",
+        "definicion": "Archivo que contiene información.",
+        "respuesta": "Documento"
+    },
+    {
+        "letra": "D",
+        "pista": "Empieza con D",
+        "definicion": "Recurso visual para proyectar imagen.",
+        "respuesta": "Display"
+    },
+    {
+        "letra": "D",
+        "pista": "Empieza con D",
+        "definicion": "Técnica para ocultar información.",
+        "respuesta": "Descifrado"
+    },
+    {
+        "letra": "E",
+        "pista": "Empieza con E",
+        "definicion": "Correo electrónico.",
+        "respuesta": "Email"
+    },
+    {
+        "letra": "E",
+        "pista": "Empieza con E",
+        "definicion": "Libro digital.",
+        "respuesta": "Ebook"
+    },
+    {
+        "letra": "E",
+        "pista": "Empieza con E",
+        "definicion": "Editor de texto o código.",
+        "respuesta": "Editor"
+    },
+    {
+        "letra": "F",
+        "pista": "Empieza con F",
+        "definicion": "Conjunto de archivos en una ubicación.",
+        "respuesta": "Folder"
+    },
+    {
+        "letra": "F",
+        "pista": "Empieza con F",
+        "definicion": "Imagen tomada con una cámara.",
+        "respuesta": "Foto"
+    },
+    {
+        "letra": "F",
+        "pista": "Empieza con F",
+        "definicion": "Unidad de almacenamiento USB.",
+        "respuesta": "Flash"
+    },
+    {
+        "letra": "G",
+        "pista": "Empieza con G",
+        "definicion": "Sistema de posicionamiento global.",
+        "respuesta": "GPS"
+    },
+    {
+        "letra": "G",
+        "pista": "Empieza con G",
+        "definicion": "Buscador en internet muy popular.",
+        "respuesta": "Google"
+    },
+    {
+        "letra": "G",
+        "pista": "Empieza con G",
+        "definicion": "Archivo que contiene imágenes animadas.",
+        "respuesta": "Gif"
+    },
+    {
+        "letra": "H",
+        "pista": "Empieza con H",
+        "definicion": "Piezas físicas de una computadora.",
+        "respuesta": "Hardware"
+    },
+    {
+        "letra": "H",
+        "pista": "Empieza con H",
+        "definicion": "Lenguaje de marcado para la web.",
+        "respuesta": "HTML"
+    },
+    {
+        "letra": "H",
+        "pista": "Empieza con H",
+        "definicion": "Protocolo para sitios web.",
+        "respuesta": "HTTP"
+    },
+    {
+        "letra": "I",
+        "pista": "Empieza con I",
+        "definicion": "Conexión global entre computadoras.",
+        "respuesta": "Internet"
+    },
+    {
+        "letra": "I",
+        "pista": "Empieza con I",
+        "definicion": "Máquina que imprime documentos.",
+        "respuesta": "Impresora"
+    },
+    {
+        "letra": "I",
+        "pista": "Empieza con I",
+        "definicion": "Organización que crea normas técnicas.",
+        "respuesta": "ISO"
+    },
+    {
+        "letra": "J",
+        "pista": "Empieza con J",
+        "definicion": "Lenguaje de programación web.",
+        "respuesta": "JavaScript"
+    },
+    {
+        "letra": "J",
+        "pista": "Empieza con J",
+        "definicion": "Control para videojuegos.",
+        "respuesta": "Joystick"
+    },
+    {
+        "letra": "J",
+        "pista": "Empieza con J",
+        "definicion": "Formato comprimido de imágenes.",
+        "respuesta": "JPEG"
+    },
+    {
+        "letra": "K",
+        "pista": "Empieza con K",
+        "definicion": "Unidad de medida digital.",
+        "respuesta": "Kilobyte"
+    },
+    {
+        "letra": "K",
+        "pista": "Empieza con K",
+        "definicion": "Sistema operativo de código abierto.",
+        "respuesta": "Kubuntu"
+    },
+    {
+        "letra": "K",
+        "pista": "Empieza con K",
+        "definicion": "Aplicación educativa de dibujo.",
+        "respuesta": "Krita"
+    },
+    {
+        "letra": "L",
+        "pista": "Empieza con L",
+        "definicion": "Sistema operativo libre.",
+        "respuesta": "Linux"
+    },
+    {
+        "letra": "L",
+        "pista": "Empieza con L",
+        "definicion": "Computadora portátil.",
+        "respuesta": "Laptop"
+    },
+    {
+        "letra": "L",
+        "pista": "Empieza con L",
+        "definicion": "Parte del teclado con letras.",
+        "respuesta": "Letra"
+    },
+    {
+        "letra": "M",
+        "pista": "Empieza con M",
+        "definicion": "Dispositivo señalador.",
+        "respuesta": "Mouse"
+    },
+    {
+        "letra": "M",
+        "pista": "Empieza con M",
+        "definicion": "Pantalla de la computadora.",
+        "respuesta": "Monitor"
+    },
+    {
+        "letra": "M",
+        "pista": "Empieza con M",
+        "definicion": "Memoria de acceso aleatorio.",
+        "respuesta": "Memoria"
+    },
+    {
+        "letra": "N",
+        "pista": "Empieza con N",
+        "definicion": "Red de computadoras conectadas.",
+        "respuesta": "Network"
+    },
+    {
+        "letra": "N",
+        "pista": "Empieza con N",
+        "definicion": "Servicio que almacena archivos en internet.",
+        "respuesta": "Nube"
+    },
+    {
+        "letra": "N",
+        "pista": "Empieza con N",
+        "definicion": "Programa para mostrar noticias.",
+        "respuesta": "Noticiero"
+    },
+    {
+        "letra": "Ñ",
+        "pista": "Contiene Ñ",
+        "definicion": "Proceso educativo relacionado con la tecnologia.",
+        "respuesta": "Ensenar"
+    },
+    {
+        "letra": "Ñ",
+        "pista": "Contiene Ñ",
+        "definicion": "Dato que se transmite por redes.",
+        "respuesta": "Senal"
+    },
+    {
+        "letra": "Ñ",
+        "pista": "Contiene Ñ",
+        "definicion": "Accion de mostrar informacion.",
+        "respuesta": "Mostrar"
+    },
+    {
+        "letra": "O",
+        "pista": "Empieza con O",
+        "definicion": "Otro nombre para computadora.",
+        "respuesta": "Ordenador"
+    },
+    {
+        "letra": "O",
+        "pista": "Empieza con O",
+        "definicion": "Programa de oficina digital.",
+        "respuesta": "Ofimatica"
+    },
+    {
+        "letra": "O",
+        "pista": "Empieza con O",
+        "definicion": "Sistema libre basado en Android.",
+        "respuesta": "OxygenOS"
+    },
+    {
+        "letra": "P",
+        "pista": "Empieza con P",
+        "definicion": "Dispositivo que muestra informacion.",
+        "respuesta": "Pantalla"
+    },
+    {
+        "letra": "P",
+        "pista": "Empieza con P",
+        "definicion": "Documento digital para compartir.",
+        "respuesta": "PDF"
+    },
+    {
+        "letra": "P",
+        "pista": "Empieza con P",
+        "definicion": "Puerto para conectar dispositivos.",
+        "respuesta": "Puerto"
+    },
+    {
+        "letra": "Q",
+        "pista": "Empieza con Q",
+        "definicion": "Codigo que almacena informacion.",
+        "respuesta": "QR"
+    },
+    {
+        "letra": "Q",
+        "pista": "Empieza con Q",
+        "definicion": "Consulta en base de datos.",
+        "respuesta": "Query"
+    },
+    {
+        "letra": "Q",
+        "pista": "Empieza con Q",
+        "definicion": "Juego para responder preguntas.",
+        "respuesta": "Quiz"
+    },
+    {
+        "letra": "R",
+        "pista": "Empieza con R",
+        "definicion": "Dispositivo para conectar internet.",
+        "respuesta": "Router"
+    },
+    {
+        "letra": "R",
+        "pista": "Empieza con R",
+        "definicion": "Tecnologia de simulacion.",
+        "respuesta": "Realidad"
+    },
+    {
+        "letra": "R",
+        "pista": "Empieza con R",
+        "definicion": "Memoria de solo lectura.",
+        "respuesta": "ROM"
+    },
+    {
+        "letra": "S",
+        "pista": "Empieza con S",
+        "definicion": "Programa que hace funcionar el hardware.",
+        "respuesta": "Software"
+    },
+    {
+        "letra": "S",
+        "pista": "Empieza con S",
+        "definicion": "Lenguaje de hojas de estilo.",
+        "respuesta": "Sass"
+    },
+    {
+        "letra": "S",
+        "pista": "Empieza con S",
+        "definicion": "Sistema de navegacion satelital.",
+        "respuesta": "Satelite"
+    },
+    {
+        "letra": "T",
+        "pista": "Empieza con T",
+        "definicion": "Computadora portátil táctil.",
+        "respuesta": "Tablet"
+    },
+    {
+        "letra": "T",
+        "pista": "Empieza con T",
+        "definicion": "Unidad de medida de almacenamiento.",
+        "respuesta": "Terabyte"
+    },
+    {
+        "letra": "T",
+        "pista": "Empieza con T",
+        "definicion": "Red de publicaciones cortas.",
+        "respuesta": "Twitter"
+    },
+    {
+        "letra": "U",
+        "pista": "Empieza con U",
+        "definicion": "Conector universal.",
+        "respuesta": "USB"
+    },
+    {
+        "letra": "U",
+        "pista": "Empieza con U",
+        "definicion": "Nombre de usuario.",
+        "respuesta": "Usuario"
+    },
+    {
+        "letra": "U",
+        "pista": "Empieza con U",
+        "definicion": "Diseño de la interacción del sistema.",
+        "respuesta": "UX"
+    },
+    {
+        "letra": "V",
+        "pista": "Empieza con V",
+        "definicion": "Contenido en movimiento.",
+        "respuesta": "Video"
+    },
+    {
+        "letra": "V",
+        "pista": "Empieza con V",
+        "definicion": "Sistema de versiones de código.",
+        "respuesta": "Versionado"
+    },
+    {
+        "letra": "V",
+        "pista": "Empieza con V",
+        "definicion": "Gafas para realidad simulada.",
+        "respuesta": "Visor"
+    },
+    {
+        "letra": "W",
+        "pista": "Empieza con W",
+        "definicion": "Red global de páginas.",
+        "respuesta": "Web"
+    },
+    {
+        "letra": "W",
+        "pista": "Empieza con W",
+        "definicion": "Aplicación de mensajería.",
+        "respuesta": "WhatsApp"
+    },
+    {
+        "letra": "W",
+        "pista": "Empieza con W",
+        "definicion": "Sistema operativo para PC.",
+        "respuesta": "Windows"
+    },
+    {
+        "letra": "X",
+        "pista": "Empieza con X",
+        "definicion": "Consola de videojuegos.",
+        "respuesta": "Xbox"
+    },
+    {
+        "letra": "X",
+        "pista": "Empieza con X",
+        "definicion": "Sistema gráfico en Linux.",
+        "respuesta": "Xorg"
+    },
+    {
+        "letra": "X",
+        "pista": "Empieza con X",
+        "definicion": "Archivo comprimido.",
+        "respuesta": "Xz"
+    },
+    {
+        "letra": "Y",
+        "pista": "Empieza con Y",
+        "definicion": "Plataforma de videos.",
+        "respuesta": "YouTube"
+    },
+    {
+        "letra": "Y",
+        "pista": "Empieza con Y",
+        "definicion": "Lenguaje de estilo para interfaces.",
+        "respuesta": "Yaml"
+    },
+    {
+        "letra": "Y",
+        "pista": "Empieza con Y",
+        "definicion": "Sitio web de preguntas y respuestas.",
+        "respuesta": "Yahoo"
+    },
+    {
+        "letra": "Z",
+        "pista": "Empieza con Z",
+        "definicion": "Formato de compresión de archivos.",
+        "respuesta": "Zip"
+    },
+    {
+        "letra": "Z",
+        "pista": "Empieza con Z",
+        "definicion": "Librería de animaciones en JavaScript.",
+        "respuesta": "Zdog"
+    },
+    {
+        "letra": "Z",
+        "pista": "Empieza con Z",
+        "definicion": "Formato de disco en Linux.",
+        "respuesta": "ZFS"
+    }
+]
