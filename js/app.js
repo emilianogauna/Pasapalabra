@@ -14,13 +14,20 @@ fetch("words.json")
       const letra = item.letra.toUpperCase();
       if (!letrasVistas.has(letra)) {
         letrasVistas.add(letra);
-        words.push(new Word(
-          words.length,
-          letra,
-          item.pista,
-          item.definicion,
-          item.respuesta
-        ));
+       // Filtrar todas las palabras con esa letra
+const opciones = data.filter(w => w.letra.toUpperCase() === letra);
+
+// Elegir una al azar
+const elegida = opciones[Math.floor(Math.random() * opciones.length)];
+
+words.push(new Word(
+  words.length,
+  letra,
+  elegida.pista,
+  elegida.definicion,
+  elegida.respuesta
+));
+
       }
     });
     document.getElementById("js--new-game").classList.remove("disabled");
