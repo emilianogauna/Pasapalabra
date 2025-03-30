@@ -187,26 +187,6 @@
         "respuesta": "JPEG"
     },
     {
-        "letra": "K",
-        "pista": "Empieza con K",
-        "definicion": "Unidad de medida digital.",
-        "respuesta": "Kilobyte"
-    },
-    {
-        "letra": "K",
-        "pista": "Empieza con K",
-        "definicion": "Sistema operativo de código abierto.",
-        "respuesta": "Kubuntu",
-        "-comentario": "cambiar"
-    },
-    {
-        "letra": "K",
-        "pista": "Empieza con K",
-        "definicion": "Aplicación educativa de dibujo.",
-        "respuesta": "Krita",
-        "-comentario": "cambiar"
-    },
-    {
         "letra": "L",
         "pista": "Empieza con L",
         "definicion": "Sistema operativo libre.",
