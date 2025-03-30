@@ -403,24 +403,6 @@
         "respuesta": "Visor"
     },
     {
-        "letra": "W",
-        "pista": "Empieza con W",
-        "definicion": "Red global de páginas.",
-        "respuesta": "Web"
-    },
-    {
-        "letra": "W",
-        "pista": "Empieza con W",
-        "definicion": "Aplicación de mensajería.",
-        "respuesta": "WhatsApp"
-    },
-    {
-        "letra": "W",
-        "pista": "Empieza con W",
-        "definicion": "Sistema operativo para PC.",
-        "respuesta": "Windows"
-    },
-    {
         "letra": "X",
         "pista": "Empieza con X",
         "definicion": "Consola de videojuegos.",
